@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "Contact-Database-Application"
+      "value": "Contact-Database-Application-Brooke"
     },
     "appServicePlanName": {
-      "value": "Contact-Database Application"
+      "value": "Contact-Database Application-Brooke"
     },
     "location": {
       "value": "East US"
